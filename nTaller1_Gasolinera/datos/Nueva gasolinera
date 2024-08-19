@@ -1,0 +1,13 @@
+tipo:Corriente:15500:608.0645161290322
+tipo:Etanol:7200:128.0
+tipo:Diesel:10300:439.1554368932039
+tipo:Metanol:6700:58.0
+surtidor:Luis Esteban Mariño:Corriente:0.0:Etanol:0.0:Diesel:0.0:Metanol:30.0
+surtidor:David Riveros:Corriente:0.0:Etanol:12.0:Diesel:0.0:Metanol:0.0
+surtidor:Juan Daniel Jaramillo:Corriente:0.0:Etanol:0.0:Diesel:40.844563106796116:Metanol:0.0
+surtidor:David Riveros:Corriente:41.935483870967744:Etanol:0.0:Diesel:0.0:Metanol:0.0
+empleado:Luis Esteban Mariño:201000
+empleado:Daniela Pepaterson:0
+empleado:David Riveros:736400
+empleado:Juan Daniel Jaramillo:420699
+empleado:Tomas Barragan:0
